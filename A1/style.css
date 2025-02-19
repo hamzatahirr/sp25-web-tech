@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    min-height: 100vh;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cv-body{
+    h
+}
+.left{
+    background-color: black;
+}
+.right{
+    background-color: bisque;
+}
